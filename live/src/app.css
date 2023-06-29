@@ -1,0 +1,12 @@
+.appclass{
+    display: flex;
+    
+}
+.main{
+    width: 70%;
+}
+.main1{
+    background-color: antiquewhite;
+    width: 200px;
+    padding: 30px;
+}
